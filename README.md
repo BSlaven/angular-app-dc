@@ -1,3 +1,11 @@
+I started learning Angular for frontent and I found this video and I build a small app with it. Video teacher very basics of Angular.
+
+I 'made' this video through code along 
+
+channel link: https://www.youtube.com/user/DesignCourse
+
+video link: https://www.youtube.com/watch?v=_TLhUCjY9iA&t=2402s
+
 # MyAppDc
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
