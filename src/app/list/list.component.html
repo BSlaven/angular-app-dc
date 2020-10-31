@@ -1,0 +1,9 @@
+<h1>Pive</h1>
+
+<ul *ngIf='beers'>
+  <li *ngFor="let beer of beers">
+    <p class="name">{{ beer.name }}</p>
+    <p class="country">{{ beer.country }}</p>
+    <a href="{{ beer.website_url }}" class="site">site</a>
+  </li>
+</ul>
